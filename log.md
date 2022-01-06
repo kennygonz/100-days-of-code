@@ -4,19 +4,19 @@
 
 **Today's Progress**: Working through freecodecamps responsive web design cert
 
-**Thoughts:** I know all of this section's stuff thanks to CS50 edx, wonder what will be in store for next coding sesh...
+**Thoughts:** I knew all of this section's stuff thanks to CS50 edx, wonder what will be in store for next coding sesh...
 
 **Link(s) to work:**: 
 1. [Basic HTML and HTML5] (https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/define-the-head-and-body-of-an-html-document)
 
 ### Day 2: January 5, 2022 
 
-**Today's Progress**: 
+**Today's Progress**: Completed Basic CSS on fcc
 
-**Thoughts:** 
+**Thoughts:** Some more stuff that I was familiar with but learned a few cool things - Margin, padding, ems and rems, clockwise notation, overrides with id's or !important, css variables, and fallbacks.
 
 **Link(s) to work:**: 
-1. 
+1. [Basic CSS] (https://www.freecodecamp.org/learn/responsive-web-design/basic-css/use-a-media-query-to-change-a-variable)
 
 ### Day 3: January 6, 2022 
 
