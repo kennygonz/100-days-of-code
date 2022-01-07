@@ -20,9 +20,9 @@
 
 ### Day 3: January 6, 2022 
 
-**Today's Progress**: 
+**Today's Progress**: Worked through some of Applied Visual design in fcc
 
-**Thoughts:** 
+**Thoughts:** Some more in depth stuff on fonts and spacing for html, pretty cool.
 
 **Link(s) to work:**: 
-1. 
+1. [Applied Visual Design] (https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/change-an-elements-relative-position)
