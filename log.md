@@ -26,3 +26,21 @@
 
 **Link(s) to work:**: 
 1. [Applied Visual Design] (https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/change-an-elements-relative-position)
+
+### Day 4: January 8, 2022 
+
+**Today's Progress**: Worked some more on applied Visual design in fcc.
+
+**Thoughts:** Some interesting stuff on manipulating colors and positions of objects. Learned about transform, hsl, linear-gradient, and other cool stuff
+
+**Link(s) to work:**: 
+1. https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/use-css-animation-to-change-the-hover-state-of-a-button
+
+### Day : 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link(s) to work:**: 
+1. 
