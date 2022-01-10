@@ -36,6 +36,31 @@
 **Link(s) to work:**: 
 1. https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/use-css-animation-to-change-the-hover-state-of-a-button
 
+### Day 5: January 9, 2022 
+
+**Today's Progress**: Finished applied visual design in fcc.
+
+**Thoughts:** Learned about animation in css; keyframes, animation commands, cubic-bezier, etc.
+
+**Link(s) to work:**: 
+1. https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/make-motion-more-natural-using-a-bezier-curve
+
+### Day : 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link(s) to work:**: 
+
+### Day : 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link(s) to work:**: 
+
 ### Day : 
 
 **Today's Progress**: 
