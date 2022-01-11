@@ -34,7 +34,7 @@
 **Thoughts:** Some interesting stuff on manipulating colors and positions of objects. Learned about transform, hsl, linear-gradient, and other cool stuff
 
 **Link(s) to work:**: 
-1. https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/use-css-animation-to-change-the-hover-state-of-a-button
+1. [Applied Visual Design] (https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/use-css-animation-to-change-the-hover-state-of-a-button)
 
 ### Day 5: January 9, 2022 
 
@@ -43,15 +43,16 @@
 **Thoughts:** Learned about animation in css; keyframes, animation commands, cubic-bezier, etc.
 
 **Link(s) to work:**: 
-1. https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/make-motion-more-natural-using-a-bezier-curve
+1. [Applied Visual Design] (https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/make-motion-more-natural-using-a-bezier-curve)
 
-### Day : 
+### Day 6: January, 10, 2022
 
-**Today's Progress**: 
+**Today's Progress**: Completed Applied accessibility section in fcc
 
-**Thoughts:** 
+**Thoughts:** Learned some cool features in html to write better markup taking into account screen readers.
 
 **Link(s) to work:**: 
+1. [Applied Accessibility] (https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/use-tabindex-to-specify-the-order-of-keyboard-focus-for-several-elements)
 
 ### Day : 
 
