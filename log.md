@@ -45,7 +45,7 @@
 **Link(s) to work:**: 
 1. [Applied Visual Design] (https://www.freecodecamp.org/learn/responsive-web-design/applied-visual-design/make-motion-more-natural-using-a-bezier-curve)
 
-### Day 6: January, 10, 2022
+### Day 6: January 10, 2022
 
 **Today's Progress**: Completed Applied accessibility section in fcc
 
@@ -54,13 +54,14 @@
 **Link(s) to work:**: 
 1. [Applied Accessibility] (https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/use-tabindex-to-specify-the-order-of-keyboard-focus-for-several-elements)
 
-### Day : 
+### Day 7: January 12, 2022
 
-**Today's Progress**: 
+**Today's Progress**: Completed Responsive Web Design Principles in fcc
 
-**Thoughts:** 
+**Thoughts:** Learned some nice commands for rendering content on different sized devices such as the viewport units vh,vh,vmin,vmax.
 
 **Link(s) to work:**: 
+1. [Responsive Web Design Principles] (https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-principles/make-typography-responsive)
 
 ### Day : 
 
