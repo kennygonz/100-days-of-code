@@ -63,6 +63,24 @@
 **Link(s) to work:**: 
 1. [Responsive Web Design Principles] (https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-principles/make-typography-responsive)
 
+### Day 8: January 13, 2022
+
+**Today's Progress**: Completed CSS Flexbox
+
+**Thoughts:** Learned about how to organize items within a flex container which would have been really handy in CS50
+
+**Link(s) to work:**: 
+1. [CSS Flexbox] (https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-align-self-property)
+
+### Day : 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link(s) to work:**: 
+1.
+
 ### Day : 
 
 **Today's Progress**: 
@@ -71,3 +89,170 @@
 
 **Link(s) to work:**: 
 1. 
+
+### Day : 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link(s) to work:**: 
+1. 
+
+### Day : 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link(s) to work:**: 
+1. 
+
+### Day : 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link(s) to work:**: 
+1. 
+
+### Day : 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link(s) to work:**: 
+1. 
+
+### Day : 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link(s) to work:**: 
+1. 
+
+### Day : 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link(s) to work:**: 
+1. 
+
+### Day : 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link(s) to work:**: 
+1. 
+
+### Day : 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link(s) to work:**: 
+1. 
+
+### Day : 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link(s) to work:**: 
+1. 
+
+### Day : 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link(s) to work:**: 
+1. 
+
+### Day : 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link(s) to work:**: 
+1. 
+
+### Day : 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link(s) to work:**: 
+1. 
+
+### Day : 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link(s) to work:**: 
+1. 
+
+### Day : 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link(s) to work:**: 
+1. 
+
+### Day : 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link(s) to work:**: 
+1. 
+
+### Day : 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link(s) to work:**: 
+1. 
+
+### Day : 
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link(s) to work:**: 
+1. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
