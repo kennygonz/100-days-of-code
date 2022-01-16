@@ -72,14 +72,14 @@
 **Link(s) to work:**: 
 1. [CSS Flexbox] (https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/use-the-align-self-property)
 
-### Day : 
+### Day 9: January 16, 2022
 
-**Today's Progress**: 
+**Today's Progress**: Completed CSS Grid on fcc.
 
-**Thoughts:** 
+**Thoughts:** Learned how to organize items in a container using a grid display, another set of tools that would have been handy in CS50
 
 **Link(s) to work:**: 
-1.
+1.[CSS Grid] (https://www.freecodecamp.org/learn/responsive-web-design/css-grid/create-grids-within-grids)
 
 ### Day : 
 
