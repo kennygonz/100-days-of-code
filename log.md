@@ -81,14 +81,14 @@
 **Link(s) to work:**: 
 1.[CSS Grid] (https://www.freecodecamp.org/learn/responsive-web-design/css-grid/create-grids-within-grids)
 
-### Day : 
+### Day 10: January 19, 2022 
 
-**Today's Progress**: 
+**Today's Progress**: Got started on tribute page project on fcc.
 
-**Thoughts:** 
+**Thoughts:** Working on a biography page
 
 **Link(s) to work:**: 
-1. 
+1. (https://codepen.io/kennygonz/pen/XWewPrX)
 
 ### Day : 
 
